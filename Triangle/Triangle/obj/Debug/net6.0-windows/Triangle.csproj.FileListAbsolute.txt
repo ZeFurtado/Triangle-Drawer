@@ -1,0 +1,17 @@
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\bin\Debug\net6.0-windows\Triangle.exe
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\bin\Debug\net6.0-windows\Triangle.deps.json
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\bin\Debug\net6.0-windows\Triangle.runtimeconfig.json
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\bin\Debug\net6.0-windows\Triangle.dll
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\bin\Debug\net6.0-windows\Triangle.pdb
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.AssemblyReference.cache
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.Form1.resources
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.GenerateResource.cache
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfoInputs.cache
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfo.cs
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.dll
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\refint\Triangle.dll
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.pdb
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\Triangle.genruntimeconfig.cache
+C:\Users\Lukhas Furtado\Desktop\Repositório\Triangle-Drawer\Triangle\Triangle\obj\Debug\net6.0-windows\ref\Triangle.dll
